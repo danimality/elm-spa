@@ -1,0 +1,64 @@
+{
+  "players": [
+    {
+      "id": "1",
+      "name": "Lys",
+      "level": 7
+    },
+    {
+      "id": "2",
+      "name": "Vannina",
+      "level": 6
+    },
+    {
+      "id": "3",
+      "name": "Mouty",
+      "level": 3
+    },
+    {
+      "id": "4",
+      "name": "Harold",
+      "level": 4
+    },
+    {
+      "id": "5",
+      "name": "Emma",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "name": "Judy",
+      "level": 7
+    },
+    {
+      "id": "7",
+      "name": "Ben",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "name": "Caro",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "name": "Axel",
+      "level": 3
+    },
+    {
+      "id": "10",
+      "name": "Florence",
+      "level": 4
+    },
+    {
+      "id": "11",
+      "name": "Arianne",
+      "level": 9
+    },
+    {
+      "id": "12",
+      "name": "Tristan",
+      "level": 7
+    }
+  ]
+}
